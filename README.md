@@ -33,7 +33,7 @@ dispute needs.
 - **Address:** `0x7EFEF2398F6c61Ddd9064cdA03c6fDF421e82Aa1`
 - **Network:** GenLayer Studio (devnet)
 - **Studio link:** https://studio.genlayer.com/run-debug
-- **Live project page:** https://claude.ai/artifact/Y6sQ5J7KZyBLTDNk5i4F92
+- **Live project page:** https://toblex6.github.io/EscrowDispute/
 
 ## Contract Methods
 
